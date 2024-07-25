@@ -60,7 +60,7 @@ La **_EmpresaX_** se enfrenta a desafíos en la gestión de su cadena de suminis
 
   <div align="center">
 
-  ![An image](https://drive.google.com/uc?id=1lQp0OpgtmyET3Cphjtds0M4b8N7rolP5)
+  ![image](https://github.com/user-attachments/assets/f822a3f0-2731-40e3-b297-38fe838e9673)
 
   <div align="initial">
 
@@ -72,7 +72,7 @@ La **_EmpresaX_** se enfrenta a desafíos en la gestión de su cadena de suminis
 
   <div align="center">
 
-  ![An image](https://drive.google.com/uc?id=1hBEhwCATBOxE0xohjrR7w4rtDQOkuKhK)
+  ![image](https://github.com/user-attachments/assets/2f8ab92f-609e-4aaa-b84a-aef068179b61)
 
   <div align="initial">
 
@@ -86,7 +86,7 @@ La **_EmpresaX_** se enfrenta a desafíos en la gestión de su cadena de suminis
 
   <div align="center">
 
-  ![An image](https://drive.google.com/uc?id=1hB31ZcAnFGIBrKVigCej1Vc4s7d8Uev4)
+  ![image](https://github.com/user-attachments/assets/4dfd5f26-58cd-4596-bcf1-c2ae5a546531)
 
   <div align="initial">
 
@@ -94,7 +94,7 @@ La **_EmpresaX_** se enfrenta a desafíos en la gestión de su cadena de suminis
   
   <div align="center">
 
-  ![An image](https://drive.google.com/uc?id=1h-V6HCtPQAfNe5rAAOo7sjZYRVNJNHCi)
+  ![image](https://github.com/user-attachments/assets/59bc0642-d3d1-48cc-a002-4332951e8328)
 
   <div align="initial">
 
@@ -102,7 +102,7 @@ La **_EmpresaX_** se enfrenta a desafíos en la gestión de su cadena de suminis
 
   <div align="center">
 
-  ![An image](https://drive.google.com/uc?id=1gydqp1O05oOt1Bht2Qm-b-tRqTkS5drk)
+  ![image](https://github.com/user-attachments/assets/821a295c-bcf9-474d-9510-0a9b081c36bc)
 
   <div align="initial">
 
@@ -110,7 +110,7 @@ La **_EmpresaX_** se enfrenta a desafíos en la gestión de su cadena de suminis
   
   <div align="center">
 
-  ![An image](https://drive.google.com/uc?id=1gsAOviGdhRgjycWRTKO3cG6req2A6eXP)
+  ![image](https://github.com/user-attachments/assets/2524c516-fdce-4499-af4e-ad3918c33ca4)
 
   <div align="initial">
 
