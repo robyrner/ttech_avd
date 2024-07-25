@@ -1,4 +1,4 @@
-# WMS Retail
+# Gestión logística de pedidos (WMS Retail)
 
 # **1. Caso de negocio**
 
